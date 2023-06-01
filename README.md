@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Jerico RANGEL 
+# Jerico Rangel
 
-## `Data Engineer | Data Testing & QA | DevOps`
+`Data Engineer | Data Testing & QA | DevOps`
