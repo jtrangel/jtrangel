@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Jerico Rangel
 
-`Data Engineer | Data Testing & QA | DevOps`
+`Data Engineer | Data Testing & QA | DevOps x DataOps x MLOps`
